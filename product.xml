@@ -1,0 +1,24 @@
+<PRODUCT>
+
+<ID>
+   <ID>1</ID>
+   <NAME>Pens</NAME>
+   <PRICE>12.50</PRICE>
+   <UNITS>10</UNITS>
+</ID>
+
+<ID>
+   <ID>2</ID>
+   <NAME>Notebook</NAME>
+   <PRICE>50.00</PRICE>
+   <UNITS>20</UNITS>
+</ID>
+
+<ID>
+   <ID>3</ID>
+   <NAME>Glue</NAME>
+   <PRICE>15.25</PRICE>
+   <UNITS>5</UNITS>
+</ID>
+
+</PRODUCT>
